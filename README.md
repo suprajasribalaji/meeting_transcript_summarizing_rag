@@ -130,5 +130,3 @@ AUTHOR
 
 Supraja Sri R B
 AI Engineer | RAG Systems | LLM Applications
-
-output_path
