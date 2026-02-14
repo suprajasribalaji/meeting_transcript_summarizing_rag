@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-groq
+langchain-google-genai
+langchain-qdrant
+langchain-huggingface
+google-generativeai
+sentence-transformers
+faiss-cpu
+qdrant-client
+pypdf
+chainlit
+streamlit
+streamlit-chat
+requests
+fastapi
